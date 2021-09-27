@@ -1,1 +1,1 @@
-# Scala
+#laboratory for functional programming
